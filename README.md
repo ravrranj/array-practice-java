@@ -16,7 +16,7 @@ Clone the repository to your local machine:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/array-practice-java.git
+git clone https://github.com/ravrranj/array-practice-java.git
 Navigate to the folder containing the program:
 
 bash
