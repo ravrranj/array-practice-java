@@ -1,0 +1,19 @@
+# Compiled class files
+*.class
+
+# IDEs and editors
+*.log
+*.swp
+*.swo
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Other
+target/
+bin/
+out/
