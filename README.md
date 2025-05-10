@@ -6,13 +6,11 @@ This repository contains my Java implementations of common Data Structures and A
 
 ## 🔷 Folder Structure
 
-
 DSA-practice/
 │
 ├── arrays/
 │ ├── PrefixSum.java # Prefix Sum implementation
-│ └── SlidingWindow.java # Coming soon!
-
+│ └── SlidingWindow.java # Sliding Window implementation
 
 ---
 
@@ -22,7 +20,7 @@ DSA-practice/
   - [x] Sorting
   - [x] Removing Duplicates (Sorted & Unsorted)
   - [x] Prefix Sum
-  - [ ] Sliding Window (Coming up next!)
+  - [x] Sliding Window
 - [ ] HashMaps
 - [ ] Recursion
 - [ ] Linked Lists
