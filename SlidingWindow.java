@@ -1,7 +1,13 @@
 import java.util.Scanner;
 
 
-// This logic uses the Sliding Window technique to find the max sum of a subarray
+/**
+ * This program demonstrates the Sliding Window technique.
+ * It calculates the maximum sum of any subarray of size k in a given array.
+ * Instead of recomputing the sum for each subarray from scratch (O(n*k)),
+ * it optimizes the process to O(n) by adjusting the sum incrementally.
+ */
+
 public class SlidingWindow {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
