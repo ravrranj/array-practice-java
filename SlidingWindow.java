@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+
+// This logic uses the Sliding Window technique to find the max sum of a subarray
 public class SlidingWindow {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
