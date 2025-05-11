@@ -1,0 +1,222 @@
+57a956ea234ff17e4ec63775c2be7078a4d1a351
+9216266882acee79d297313226a41a6574e704e3
+99dbb17184cd58b58d5fbed4f37a53e4b8a499bb
+090f5aafb507afe093d5523e4ef23cd8b08042ee 
+2ad748043791444e60d7c22e1ae621abd4d7d4b6 
+8d72596b1a9aadfc12957aac5ca9413f35c9d217 
+dadc5e8b99c84fce69a17076cabe771dbce98c0a .idea
+a0ccf77bc5f2e5bd4ed82eb7129d726594c15150 .idea/.gitignore
+ed4a9ad6faf948f0484f1004bdb3c2a2b5a10529 .idea/.name
+a7141d7ff0c859555a123b2edc3a410f3c2a70f1 .idea/libraries
+2f4c4469211c1db6b0b7cdf90e11d61c8d694385 .idea/libraries/BinaryNumberGenerator.xml
+89ee75358bada5f4c032c5a1b038b5ec2dc63dcd .idea/misc.xml
+7bf2029c20f393dc5579987c2c78d8ef94337325 .idea/modules.xml
+86b878ace9ed0106ebe05fdd50e38fb73d513d88 .idea/vcs.xml
+137734aa331a5deedef5894d167dcfc7c0557a7e .vscode
+c995aa5cefc39b8d1744799a04f27ee68d687c6b .vscode/settings.json
+9ff6a182fd0f816e2262ca31ded015a187b19c82 80550e77-832d-4acf-9d48-0dfa8900217f_1200x1512.gif
+bdba7c0928c73a1cab4f286739b22be3d565abb6 Add program to find max and second max in array
+fecd4bdde25c6c056bc2b826327e232dc8cdcd69 Add program to find max and second max in array
+31e140973c7f53390126e6819d85069dd62aefbf Add program to find max and second max in array/.gitignore
+3146783ddb877b0ec37eaaf0cb5bdbbb16bc5571 Add program to find max and second max in array/FindMaxNumber.java
+12982075ceee254fa60c7e81ec8a4dd194a51d1c ArrayList in Java.docx
+ef7b6bb15babfb6644041f96b6cf3d9d50379ce6 Backtracking.docx
+8c78478fb9661c848058b5037668546b9ae0dad7 BalanceCheck.java
+7cc7df208f07fcaeb853c4685e554044cc9adef9 BalancedParentheses.java
+5d5f1942940053a9f2d39c188d9c8766c8ce24a0 BEST Linked List Questions.docx
+3121f0895163a255eb246e9eefb2743d89f95075 binary-file-icon.png
+7d2e75ae7223580ce5df02667d2b8c91f9607083 BinaryNumber.java
+e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 BinaryNumberGeneratorGUI.java
+7edb29c07f317421cd8c7c891b4776e46ee86f80 BinaryNumbers.java
+66608af2f37797519fdb8c4dd51260a7e035d91c BrowserHistory
+e65eb12923699be72dbee508410fcb73ab164ebb BrowserHistory.class
+a3678d8b895244f55e9c1f6b84254e730441071c BrowserHistory.java
+1fce41f08da75428e769b5438920cb1ea1f4026d BrowserHistory/BrowserHistoryManager.java
+1f893f3c6ce87a4ced6ac1f157834d48509a9c8b Collection Framework - Java.pdf
+1aa7973cbd3fdc34b1e9dbc08f3a734ad004fb54 Cycle.java
+997dfc3db4e2b2544b8bc91241d49573cb49f8c4 d08cfd97-747e-4050-b742-bdc4a60ac865_1200x1278.gif
+b107a2dd81165eaaf682ad3da030668b937fbb6c Documents.iml
+e046049d4c70c020caf33796e4164d1b66b1aadf Downloads.code-workspace
+5713fa367ba3de96de859b87aa233e33593be9f2 FilterLinkedList.java
+6ec6dbc633b0efcf5508fe03f3d14c669b8abe8f FindNextGreaterNumber.class
+52d055d2c403322b3addf016646a8a17214dc068 FindNextGreaterNumber.java
+77b3138f37982b56448cdaf3a7f92ebc8e230f75 Floyds.java
+68d2c6239bef22582ff8265fc61848436fab4936 Git_Cheat_Sheet.md
+01b568be9eb69ace151da275aeae84c044dcaa94 GUI
+ae6e55dc79756fec23381bf61876be968f8a3086 ideaIC-2025.1.exe
+c19466acc22a7d4e69b7e75b45e357403b430afb isPalindrome.java
+04844d86dd5ec235f703535390b012f697ff039d Java Class 1.pdf
+5d2a44d441d9ffc0a0bce0409d4142105143b0db Java Exercise 1 Solutions.docx
+6aff890ea29c4939a2868afb642ce8ee181878a3 Java Exercise 1.docx
+45393dd5c25c396a3fa92e892a98e423e36f3503 Java Lecture 1.docx
+ff529630527b970130620b60c170f51d80c0e124 Java Lecture 10.docx
+2b408646853eb4a842c05269de19d4fc1affd4bc Java Lecture 11.docx
+27c3d90b7295e63570747d7250dcf8bc62ba6816 Java Lecture 12 .docx
+ce3759553fd4b62bb43b5b86d0f242d8b54ef1f8 Java Lecture 13.docx
+ebd44eb914a54d78bee15b29ac7c5d4ccab66dad Java Lecture 14.docx
+83cdea98ac35d54d4a181f1d3dd100b39991e798 Java Lecture 2.docx
+885f52d173d8ffa74cabc0acf8624dc24ce5e82e Java Lecture 3.docx
+e422c379a149feba7a4a82521ad88d21688ca8fe Java Lecture 4.docx
+f0f1fa94f233fd383d340387f4ae749e99c23566 Java Lecture 5.docx
+40929ac3d1aa10ec63d4c9703d85a50ec333d240 Java Lecture 6.docx
+b2356484d207d478039abfa5ef66e307cb082991 Java Lecture 7.docx
+58fef072274e10748ab8e459ddfd72a0042853d8 Java Lecture 8.docx
+a9553cc31ee8f3684387004fee354ce745df2571 javafx-sdk-24.0.1
+b4ee8ecd674fc01eafd20919d50485c22eeec1dd javafx-sdk-24.0.1/bin
+54318bb11acc924b2671e266ac3069aefbffa22b javafx-sdk-24.0.1/bin/api-ms-win-core-console-l1-1-0.dll
+3046369f08b1b0fa1b09aa53658359917647446c javafx-sdk-24.0.1/bin/api-ms-win-core-console-l1-2-0.dll
+78a2f2bd948aeb915ac75bd11e19324d73b2ba23 javafx-sdk-24.0.1/bin/api-ms-win-core-datetime-l1-1-0.dll
+ed6526aa340564870c7379f3dfc044aebb4b3bb3 javafx-sdk-24.0.1/bin/api-ms-win-core-debug-l1-1-0.dll
+5067f3b91ae43c20659f698f744e680cd90c4743 javafx-sdk-24.0.1/bin/api-ms-win-core-errorhandling-l1-1-0.dll
+aec5c21c2d3e0b1e63517fb94089f2a4ed003b14 javafx-sdk-24.0.1/bin/api-ms-win-core-file-l1-1-0.dll
+a48632835c63a786dd6ccb34622f6b936a90bfd8 javafx-sdk-24.0.1/bin/api-ms-win-core-file-l1-2-0.dll
+c47477e523c51af4abb80de46fb5da855a80ae44 javafx-sdk-24.0.1/bin/api-ms-win-core-file-l2-1-0.dll
+e3457206dd32156e55bc8d7b58315f6f00dc67f5 javafx-sdk-24.0.1/bin/api-ms-win-core-handle-l1-1-0.dll
+cdfbc4fb05b0650d3ab4159121d2e1f56106143e javafx-sdk-24.0.1/bin/api-ms-win-core-heap-l1-1-0.dll
+c5a6babb8ec4b5ea80a0313471028a0189a3c26a javafx-sdk-24.0.1/bin/api-ms-win-core-interlocked-l1-1-0.dll
+7ebe4032a80d279c997183a7bf13a053f17a789c javafx-sdk-24.0.1/bin/api-ms-win-core-libraryloader-l1-1-0.dll
+f14a0898d424bb1b51bfc7915a650f9af07d219d javafx-sdk-24.0.1/bin/api-ms-win-core-localization-l1-2-0.dll
+b39856d38d63353f23038cb64b406dfe7b227b2b javafx-sdk-24.0.1/bin/api-ms-win-core-memory-l1-1-0.dll
+1ab9d21af431099186cb1f69b5e16e01a19d09a4 javafx-sdk-24.0.1/bin/api-ms-win-core-namedpipe-l1-1-0.dll
+cb11888092b8c26369421a3236ed2924df60f93d javafx-sdk-24.0.1/bin/api-ms-win-core-processenvironment-l1-1-0.dll
+df5bbfc0b91d19eb71686c68d2b048ac0a66dc2f javafx-sdk-24.0.1/bin/api-ms-win-core-processthreads-l1-1-0.dll
+aebaca0add4717905e9b4aee9b72d3947109146d javafx-sdk-24.0.1/bin/api-ms-win-core-processthreads-l1-1-1.dll
+3cee241c7a4759f16e8b4210ae3121f424138e8a javafx-sdk-24.0.1/bin/api-ms-win-core-profile-l1-1-0.dll
+1f1fadf77d15baf03e916a029ebf1517a8c948d6 javafx-sdk-24.0.1/bin/api-ms-win-core-rtlsupport-l1-1-0.dll
+8d4a3fb7e0989bed6b909e727034a40fbeaff4be javafx-sdk-24.0.1/bin/api-ms-win-core-string-l1-1-0.dll
+d63157cf35032a47db35f6428b3a254f3bdaad95 javafx-sdk-24.0.1/bin/api-ms-win-core-synch-l1-1-0.dll
+055e03ce4b9fc06e1c954847bffbcda90f29913c javafx-sdk-24.0.1/bin/api-ms-win-core-synch-l1-2-0.dll
+c737b446272f9eab1c3943cef0a3e75f45e129e1 javafx-sdk-24.0.1/bin/api-ms-win-core-sysinfo-l1-1-0.dll
+21f18819b3a2a53eeb069383873e2bd7b6291b8c javafx-sdk-24.0.1/bin/api-ms-win-core-timezone-l1-1-0.dll
+9248bcc4f7313c503e55eac50a57d69b43e7d8f7 javafx-sdk-24.0.1/bin/api-ms-win-core-util-l1-1-0.dll
+67476a52387fabd9ccb1d542b86b881d1bc6ce7f javafx-sdk-24.0.1/bin/api-ms-win-crt-conio-l1-1-0.dll
+3f6d6d179c7bdaa7d299afced2791b6506bfad5b javafx-sdk-24.0.1/bin/api-ms-win-crt-convert-l1-1-0.dll
+18c6cf785b5112815544d4d706880afbe9ae0570 javafx-sdk-24.0.1/bin/api-ms-win-crt-environment-l1-1-0.dll
+28f33248278642b49733cdcbb75306d5352bc1de javafx-sdk-24.0.1/bin/api-ms-win-crt-filesystem-l1-1-0.dll
+e68da9525a64161a6317a4b6eaaca0f117d2204e javafx-sdk-24.0.1/bin/api-ms-win-crt-heap-l1-1-0.dll
+285e3cd112e17f2718f5a77af77a8558158fd091 javafx-sdk-24.0.1/bin/api-ms-win-crt-locale-l1-1-0.dll
+14848fa62cb8a9ab51ba21d776279efe47dea81e javafx-sdk-24.0.1/bin/api-ms-win-crt-math-l1-1-0.dll
+d4b8f9df6c86a1ec81cd31ea1f95d3153f3c9401 javafx-sdk-24.0.1/bin/api-ms-win-crt-multibyte-l1-1-0.dll
+318e5247a9e2c46bf31496f51f101727002740fa javafx-sdk-24.0.1/bin/api-ms-win-crt-private-l1-1-0.dll
+e6e4272da5e54620f0e0195cafc7fe7fbb9edef9 javafx-sdk-24.0.1/bin/api-ms-win-crt-process-l1-1-0.dll
+ddb7286fbc1d40bd4cbeef983d21f0a74da0c8d1 javafx-sdk-24.0.1/bin/api-ms-win-crt-runtime-l1-1-0.dll
+eb880118984587ccaf0fe4ac659a743b8f532997 javafx-sdk-24.0.1/bin/api-ms-win-crt-stdio-l1-1-0.dll
+dcf83bb4c8d1a0857be93c0eb417e7e4499bd385 javafx-sdk-24.0.1/bin/api-ms-win-crt-string-l1-1-0.dll
+038e39a5e920bd5b89fdaf5190d3d04bbdb2f56a javafx-sdk-24.0.1/bin/api-ms-win-crt-time-l1-1-0.dll
+47811da7e547cc3833061dca6076242d4734aac0 javafx-sdk-24.0.1/bin/api-ms-win-crt-utility-l1-1-0.dll
+2d85f038361b72d89da429fa1afc036fa5aa7f41 javafx-sdk-24.0.1/bin/decora_sse.dll
+f877fe4105d67ae722d02cf228ebdc4f51ede1e6 javafx-sdk-24.0.1/bin/fxplugins.dll
+41f82571448a50a34a64715fc7a87e6536a2642b javafx-sdk-24.0.1/bin/glass.dll
+6c9389a8be1de82d91eff6f0788726d737b45483 javafx-sdk-24.0.1/bin/glib-lite.dll
+480c012b3cbf04a8de86f10c03f4350ae97d975e javafx-sdk-24.0.1/bin/gstreamer-lite.dll
+1e81f57b6bdaa61814574edaf4724db5bca21f55 javafx-sdk-24.0.1/bin/javafx_font.dll
+cbc854ddb07bbc66f40b7329c764b68f40975f57 javafx-sdk-24.0.1/bin/javafx_iio.dll
+66af57026bc79387fd376dc4d2e607bd1e3e6666 javafx-sdk-24.0.1/bin/jfxmedia.dll
+fd457bfdb39e958cb24d640ba526fa85bfab2569 javafx-sdk-24.0.1/bin/jfxwebkit.dll
+01d749d215d87ed9264150031ed359fbccaa0003 javafx-sdk-24.0.1/bin/msvcp140.dll
+493b96cb670d4fff1b1b5b04d31de6e5283c7c4b javafx-sdk-24.0.1/bin/msvcp140_1.dll
+493fd6410df658489a2fd362329ce4b4c308ea89 javafx-sdk-24.0.1/bin/msvcp140_2.dll
+cb8b8ab25c97a17cdd9bd0cbb5a750ba9d3ff044 javafx-sdk-24.0.1/bin/prism_common.dll
+36706e0a6614178a09811c99b8e3522ee364fee9 javafx-sdk-24.0.1/bin/prism_d3d.dll
+9b766005e6e6b9a2578e043a985e5279edf31e15 javafx-sdk-24.0.1/bin/prism_sw.dll
+0ea3f71f0fe06461376975c848ac800d1e48ea4c javafx-sdk-24.0.1/bin/ucrtbase.dll
+edba5485f14d5d05f97fcfbf62391e48f054894b javafx-sdk-24.0.1/bin/vcruntime140.dll
+6091fbf06e49b8cfa9e49e2f6fbce6948e947a46 javafx-sdk-24.0.1/bin/vcruntime140_1.dll
+8a7f9cac79447106dbce364ef4417f1cc8ca3637 javafx-sdk-24.0.1/legal
+c8911dd34ce93f25cc33fd7392622c0c0245d142 javafx-sdk-24.0.1/legal/javafx.base
+ff700cd09f6ea0cc497f68169fd5c210bdaa7c2b javafx-sdk-24.0.1/legal/javafx.base/ADDITIONAL_LICENSE_INFO
+065b8d90239f30b7de3eba350f6446a932d4d131 javafx-sdk-24.0.1/legal/javafx.base/ASSEMBLY_EXCEPTION
+8b400c7ab81b7b18baff3f81d597f5e511883134 javafx-sdk-24.0.1/legal/javafx.base/LICENSE
+f6411addfcd3d344a51eaa7e113b7aaa8f93ee25 javafx-sdk-24.0.1/legal/javafx.graphics
+9d5e8a4afb6d27dc1d4b5956d2ca6e08796d2df9 javafx-sdk-24.0.1/legal/javafx.graphics/jpeg_fx.md
+cdaa1acb2930bff36dce3622b207ed8d9dc40290 javafx-sdk-24.0.1/legal/javafx.graphics/mesa3d.md
+8275928e2715016441ba70cb276e566c880cf764 javafx-sdk-24.0.1/legal/javafx.graphics/pipewire.md
+2f7eb6c0cdd31fc03b88d348a4c2719df7782994 javafx-sdk-24.0.1/legal/javafx.media
+bbe1e2706b198c12925dff0363b053a925f4503f javafx-sdk-24.0.1/legal/javafx.media/directshow.md
+b514c209d9b229d16d9fabcba95cf174eb2888cc javafx-sdk-24.0.1/legal/javafx.media/glib.md
+0cf2a802660983af9ad142783c94ec1211c39fc2 javafx-sdk-24.0.1/legal/javafx.media/gstreamer.md
+30602a1acd81478b148289239acde2edc3e42a7d javafx-sdk-24.0.1/legal/javafx.media/libffi.md
+f5e8a7ecf30d4fe889452d3a1aa942deb686e736 javafx-sdk-24.0.1/legal/javafx.web
+4da85c9601e8c8ce93996b38c01905c8efccde17 javafx-sdk-24.0.1/legal/javafx.web/icu_web.md
+5b24e4129af701a64b81ccbdc3b4cd8447d9876a javafx-sdk-24.0.1/legal/javafx.web/libxml2.md
+a06f094104332336045f971100720eb022fdf370 javafx-sdk-24.0.1/legal/javafx.web/libxslt.md
+5a9218b73275b8cf5c87dee61f25d6ef584fd217 javafx-sdk-24.0.1/legal/javafx.web/webkit.md
+1771ab322c9d0b7bed87156d03e32aa44ab3a17d javafx-sdk-24.0.1/legal/jfx.incubator.richtext
+8bd2ed8bd134cd49fb5e60b1f41a54d0dc13e769 javafx-sdk-24.0.1/legal/jfx.incubator.richtext/unicode-fx.md
+3001c8662f503a9a23b7ea1720e55e06d7bf7a54 javafx-sdk-24.0.1/lib
+ef80b1a26698f834c486da1b698e6af1146ca8d9 javafx-sdk-24.0.1/lib/javafx.base.jar
+4d9e13925d94d075f727e5e838e708ed8d37b77e javafx-sdk-24.0.1/lib/javafx.controls.jar
+285a76b46650947e4f02226209e040c8b11a0f80 javafx-sdk-24.0.1/lib/javafx.fxml.jar
+5eb2e5713a0300a4e0a6e366e0477d2b62ec8a0e javafx-sdk-24.0.1/lib/javafx.graphics.jar
+da7259fbaf7f2a06297874357bbf41e011383a52 javafx-sdk-24.0.1/lib/javafx.media.jar
+e04495d0529cffe59f81b93e52113f64589a42e1 javafx-sdk-24.0.1/lib/javafx.properties
+cc0864219d77e45a49a1344cf8e7890b5a3d4604 javafx-sdk-24.0.1/lib/javafx.swing.jar
+0e60811b6b53c748f6779a347142fce2f7d3630b javafx-sdk-24.0.1/lib/javafx.web.jar
+fe43a77178773c3e7dbc248de1f2e696a44258f3 javafx-sdk-24.0.1/lib/javafx-swt.jar
+6b8d5aab9f8550baafbc5cfd23a0b07bc5e1f3c4 javafx-sdk-24.0.1/lib/jdk.jsobject.jar
+3534c76a30f967b348c5b414e0f9fb310f91548c javafx-sdk-24.0.1/lib/jfx.incubator.input.jar
+91b420512d7f606acb88327b3b29baac58def2cf javafx-sdk-24.0.1/lib/jfx.incubator.richtext.jar
+3585e7b4236bc36db3e3d0f404f2d70d27e861ff javafx-sdk-24.0.1/src.zip
+95d3ac003c054f407b805a3eec8b7790aefab938 Linked List Java.docx
+c67067c627894659bcb2e9f5b63d891a87c8e6e2 LinkedList.java
+2820307c9071416ea698e8114b4a2afe6ad8b063 LinkedListexample.java
+c271756480e60eab4a8b3b410f463120beb2c098 LinkedListSearch.java
+189702685b49e54e89230af50d4bee8eea2b3185 ListNode.java
+1a7c0f0c99dc5cf24c7c1f7df24784b954f03d9a LL.java
+0f5383967d382fb7d917f0f68eeccff3ee5a3436 LL1.java
+e066283dfc92dfb425c27bdfe971a1b1739114d3 LLQueue.java
+7780d39b001e0db976c066605d8ffdd891e51a0e Main.java
+17e5f9501060d3e00dc93b297d35e61600eb1c0e Main1.java
+a93aec5d9f07b44035133fa42c8688a800c9cee4 main2.java
+9273ba4b757d53a29947a4f803bf58b6445d13d4 Merge Sort (2).pdf
+7a4373802bafd8bab51c51aa6540e95cdebc9cee MergedLinkedList.java
+dda97880a493ad5eddd7e7f15bcc0a79fa96fe83 MoveZeros.java
+6956d8c6e962abbf811c229b4e4343ca31b23dc7 MyQueues.java
+00232eddc9f0dec80d3293a6fc928a7bb58997e6 NextGreaterElement.java
+aa61a3fff3755d2647d09bcc5b3d75ce55c7ffcc OOPS in Java.docx
+7c95f475308fd5a6d2ef329165e08fb05e310680 out
+4e3d1857fe90572bda21018a26c746b9a2cf744f out/production
+821ba29b0ccfee9ed15e2539937eb6c4d8183463 out/production/Documents
+e414af9f88181d6f84a1caaefdcecc389b7b6297 out/production/Documents/.idea
+ef00984f8781cc7716b57210bb20bb1096cecd36 out/production/Documents/.idea/vcs.xml
+9096d1950a16b77f7f89917c52e3d0fe60a67666 out/production/Documents/BinaryNumberGenerator
+88a6a90ca75c8614dfbe508bb4d3622cb362d476 out/production/Documents/BinaryNumberGenerator/.gitignore
+25c9c9180bd27166b5ae9ed6396dc4e6fd8b280b out/production/Documents/BinaryNumberGenerator/BinaryNumberGenerator.png
+5b381609302003e69829a86615a6bfbf5c8be23c out/production/Documents/BinaryNumberGenerator/manifest.txt
+947e2e6eda8ffc86829889e81d46f2998f00d32d PalindromeArrayList.java
+4536b987820ee76d8e4a2f07b7e2c6ccc21718c1 PalindromeQueueChecker.java
+36050e53a2225cf5fdc150417c1ee3af242c7505 PasswordGenerator.java
+8ebafdac93ed3151c05aed51deeb5598bbdf18c7 QueueExample.java
+b53a40231ce3e4d3a3829234849d2c7aa453c00d QueueUsingTwoStack.java
+d7b31a8d4f3a8718ec3d61e896e554df4177c5a5 QueueUsingTwoStacks.java
+a9238a2beb5c1709764f9aa3e060938a9b42a734 QueueY
+c8fe0cea675126bada95cfd2947637152f868dce QueueY.java
+5f573f504a1e2f02cf8ce7a9fdebb46b02b2d47a QueueY/.gitignore
+6c8f60c37526f537401651f111aa6debe90528d6 QueueY/.gitignore.txt
+9647ccb355faf2a31329e5da3b1e185f6f898141 QueueY/QueueZ.java
+8ced618ab1963e6bf9d5e5f98f55d739cc9c4728 Recursion Class 2.pdf
+ce69221996d7ac4954ed6fad22f0379e61591e84 Recursion Class 3.docx
+5987186b85ef3ecc88a57e1a3845eea5e1d6fa03 RecursiveMethod.java
+695cca1216089a03ecc6353f9c255f3c07b55bec RemoveConsecutiveDuplicates.java
+8fe2c9819ccd4408fdb2c250835132d39e36060a RemoveDuplicates.java
+e1f66c169b3b2ac10fd42e9734742d3cbb391780 RemoveEven.java
+d32a8f83bd0bd07fb1766a898ee92d2abccfae7b Reverse a Linked List.docx
+947a028d06aec39d06163d4f7ff3eeb59ea6f96d ReverseASentence.java
+5971617dd6ae358ea95f06c6c7faa18e470ecb4e ReverseEveryKGroupQueue.java
+8b1a20c74d7a53ba00c531827e1805e48951171c ReverseEveryKGroupQueues.java
+5ea50a906fb5c11cec6be57ea6d697077660a3cd ReverseKElements.java
+819589ecda77bbea240b17ae9523d18176280f71 ReverseLinkedList.java
+8025671488cd2f05105aaeb66ee873d30f0a9b27 ReverseLL.java
+d3b97d0cb92b70e10c06101e9c8e4d78f1bdd80b ReverseQueue.java
+6fa7656953fc22c33d8f00241e5a16062c032c72 ReverseQueues.class
+49009ae82f7a4f86abae382541484b3be2be7fa3 ReverseQueues.java
+4251d0417a51b888e678630ac346d2244246d3b0 ReverseString1.java
+6334e14311f94addccbd0af7f5a1332e1070613e ReverseVowels.java
+3c615eff561d16696bac0877b8f1c69ddf17efea ReverseWithStack.java
+67c58e7e09ce0de3cda941c6a6b9ba64e31fd6fa RotateArrayList.java
+96d7d379ae3ed43b4d0c3e8fdf54dd8122c9d957 Sorting in Java - 3 Techniques.docx
+529a17d5f692a9389bf1b8ac1bbe37bf4e365fee Stack Java.docx
+e3dbb01184ed3f2f144a05efcbe211a5f8414856 StackExample.java
+c3bcfdc20a715c2c97230a1a25d3be80e15fdcf1 Sudoku Solver - Backtracking 2.docx
+c98f1ea735b2416fcd0567a75ab9334c7f22269e TextEditor.java
+8bd3cf014c029383b021c1b78dd980024df43ad9 VSCodeUserSetup-x64-1.99.0.exe
