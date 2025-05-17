@@ -1,86 +1,80 @@
 # Stacks and Queues in Java
 
-This folder contains Java implementations of data structures related to **Stacks and Queues**.
+This folder contains Java implementations of data structures related to Stacks and Queues.
+
+---
 
 ## ✅ Implemented So Far
 
-1. **Stack using Array**
-   - Custom `MyStackArray` class with:
-     - `push()`
-     - `pop()`
-     - `peek()`
-     - `isEmpty()`
-     - `isFull()`
+### Stack using Array
+Custom `MyStackArray` class with:
+- `push()`
+- `pop()`
+- `peek()`
+- `isEmpty()`
+- `isFull()`
 
-## 📂 File Descriptions
-
-- `MyStackArray.java`: Implements a stack using an array with test cases in the `main()` method.
-
-
-2.  **Stack using Linked List
-
+### Stack using Linked List
 This implementation uses a singly linked list to simulate stack behavior.
 
-### Operations:
+Operations:
 - `push(int data)`: Adds a node at the beginning
 - `pop()`: Removes the node at the beginning
 - `peek()`: Returns the top element
 - `isEmpty()`: Checks if the stack is empty
 
-
----
-
-3. - `QueueArray.java`: Queue implemented using a fixed-size Array
-
-
-📄 QueueArray.java
-
-Implements a queue using a fixed-size array.
-
-### Operations:
+### Queue using Array
 - `enqueue(int data)`
 - `dequeue()`
 - `peek()`
 - `isEmpty()`
 - `isFull()`
 
-### Sample Output:
+### Queue using Linked List
+- `enqueue()`
+- `dequeue()`
+- `peek()`
+- `isEmpty()`
 
+### Circular Queue
+Implements a circular buffer to efficiently utilize space.
+- `enqueue(int data)`
+- `dequeue()`
+- `peek()`
+- `isEmpty()`
+- `isFull()`
 
-### Sample Output:
-10 pushed to stack
-20 pushed to stack
-30 pushed to stack
-Top element: 30
-Popped: 30
-Top after pop: 20
+### Reverse First K Elements of Queue
+Given a queue and a number K, reverses the first K elements in the queue.
 
 ---
-4. Stacks & Queues Implementations
 
-- `MyStackArray.java`: Stack implementation using an array. Supports push, pop, peek operations.
-- `MyStackLinkedList.java`: Stack implementation using a Linked List.
-- `QueueArray.java`: Queue implementation using an array with fixed capacity.
-- `QueueLinkedList.java`: Queue implementation using Linked List. Supports enqueue, dequeue, peek, and isEmpty operations.
+## 📂 File Descriptions
 
-- `QueueLinkedList.java`: Queue implementation using Linked List. Supports enqueue, dequeue, peek, and isEmpty operations.
+- `MyStackArray.java` – Stack implementation using an array.
+- `StackLinkedList.java` – Stack implementation using a Linked List.
+- `QueueArray.java` – Queue implementation using a fixed-size array.
+- `QueueLinkedList.java` – Queue implementation using Linked List.
+- `CircularQueue.java` – Circular queue implementation using array.
+- `ReverseKQueue.java` – Reverses the first K elements in a queue.
+
+---
 
 ## 📦 Upcoming
-- Circular Queue
+
 - Stack using two Queues
 - Queue using two Stacks
 
+---
 
 ## 📌 How to Run
 
 Make sure Java is installed. Then run:
 
 ```bash
-javac MyStackArray.java
-java MyStackArray
+javac FileName.java
+java FileName
 
-
-Save and close the file.
 
 ---
 
@@ -98,3 +92,10 @@ git push origin main
 👨‍💻 Author
 Ravi Ranjan (ChunChun)
 GitHub Profile
+
+
+
+# After saving the file:
+git add README.md
+git commit -m "Update README with CircularQueue and ReverseKQueue details"
+git push origin main
