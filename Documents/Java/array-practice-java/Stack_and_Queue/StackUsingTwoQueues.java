@@ -5,7 +5,7 @@ public class StackUsingTwoQueues {
     private Queue<Integer> q1 = new LinkedList<>();
     private Queue<Integer> q2 = new LinkedList<>();
 
-    // Push - O(n)
+    // Push element onto the stack O(n)
     public void push(int x) {
         q2.add(x);
         while (!q1.isEmpty()) {
