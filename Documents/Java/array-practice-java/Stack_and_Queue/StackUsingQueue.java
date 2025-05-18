@@ -2,7 +2,6 @@
 import java.util.LinkedList;
 import java.util.Queue;
 
-// pop = o(n)
 public class StackUsingQueue {
     private Queue<Integer> q1 = new LinkedList<>();
     private Queue<Integer> q2 = new LinkedList<>();
